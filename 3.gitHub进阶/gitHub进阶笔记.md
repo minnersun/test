@@ -757,6 +757,12 @@ project.txt
 > `git branch -d hotfix`
 >
 > `git branch -D hotfix`
+>
+> > 删除本地分支
+>
+> `git push origin --delete iss53`
+>
+> > 删除远程分支
 
 ###### 查看分支列表
 
